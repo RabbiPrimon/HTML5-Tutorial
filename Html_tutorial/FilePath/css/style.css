@@ -1,0 +1,26 @@
+body{
+  background: #9FE2BF;
+}
+/* a{
+  color: black;
+  font-size: 50px;
+  text-decoration: none;
+} */
+ /* table{
+  font-family: 'Courier New', Courier, monospace;
+   border-collapse: collapse ;
+ }
+ td,th{
+  border: 1px solid: 000000;
+ } */
+  ul{
+    /* list-style: circle; */
+    /* list-style: square;
+    list-style: disc; */
+    /* list-style: none; */
+  }
+  #title{
+    background-color: orange;
+    color: aliceblue;
+  }
+  
